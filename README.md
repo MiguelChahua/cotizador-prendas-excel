@@ -1,6 +1,6 @@
 ---
 
-# 📊 Cotizador Automatizado de Prendas en Excel (DTF)
+# 📊 Cotizador Automatizado de Prendas en Excel
 
 ## 🧾 Descripción
 
