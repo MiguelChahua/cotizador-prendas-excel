@@ -28,11 +28,11 @@ El sistema aplica reglas de negocio complejas de forma automática, asegurando p
 * Validación dinámica de datos según relaciones entre características
 * Filtrado automático de opciones (tela, talla, estilo, color, etc.)
 * Cálculo automático de precios según:
-
   * tipo de prenda
   * volumen (unidad, media docena, docena o más)
   * campaña activa
   * características específicas
+
 * Aplicación de reglas de negocio diferenciadas por prenda
 * Generación de resumen de cotización:
   * descripción del pedido
@@ -73,7 +73,7 @@ El flujo de uso del cotizador es el siguiente:
 ## 🔗 Acceso al proyecto
 
 * 📥 Descargar archivo: disponible en este repositorio
-* 🌐 Ver online: (agregar aquí tu enlace de OneDrive)
+* 🌐 Ver online: (https://1drv.ms/x/c/5e29aba03f0ba95f/IQCLVYHMSFybQ7IaEl8d6CS2AWhgz9Rka0Ekjh2eD7ZoQLQ?e=insAWr)
 
 ---
 
