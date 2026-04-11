@@ -67,9 +67,20 @@ El flujo de uso del cotizador es el siguiente:
 ![Vista del cotizador](images/1.png)
 
 2. Las opciones disponibles (tela, talla, estilo, color, etc.) se actualizan automáticamente
+
+![Vista del cotizador](images/2.png)
+
 3. Se ingresa la cantidad requerida
+
+![Vista del cotizador](images/3.png)
+
 4. El sistema calcula el precio unitario y total en tiempo real
+
+![Vista del cotizador](images/4.png)
+
 5. Se genera una descripción completa de la cotización
+
+![Vista del cotizador](images/5.png)
 
 ---
 
