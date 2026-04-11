@@ -73,7 +73,7 @@ El flujo de uso del cotizador es el siguiente:
 ## 🔗 Acceso al proyecto
 
 * 📥 Descargar archivo: disponible en este repositorio
-* 🌐 Ver online: (https://1drv.ms/x/c/5e29aba03f0ba95f/IQCLVYHMSFybQ7IaEl8d6CS2AWhgz9Rka0Ekjh2eD7ZoQLQ?e=insAWr)
+* 🌐 Ver online: 👉 Ver online: [Abrir cotizador en OneDrive](https://1drv.ms/x/c/5e29aba03f0ba95f/IQCLVYHMSFybQ7IaEl8d6CS2AWhgz9Rka0Ekjh2eD7ZoQLQ?e=insAWr)
 
 ---
 
