@@ -63,6 +63,9 @@ El sistema aplica reglas de negocio complejas de forma automática, asegurando p
 El flujo de uso del cotizador es el siguiente:
 
 1. Se selecciona el tipo de prenda
+
+![Vista del cotizador](images/1.png)
+
 2. Las opciones disponibles (tela, talla, estilo, color, etc.) se actualizan automáticamente
 3. Se ingresa la cantidad requerida
 4. El sistema calcula el precio unitario y total en tiempo real
